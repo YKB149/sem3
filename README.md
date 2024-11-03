@@ -1,2 +1,2 @@
 Files with prefix EXPER are of FDS
-Files with prefix Practical are of OOP
+Files with prefix oop are of OOPs
