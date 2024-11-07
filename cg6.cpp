@@ -55,7 +55,7 @@ int main()
 int gd=DETECT,gm;
 int rhx,rhy,j,i;
 walkingman obj;
-initgraph(&gd,&gm,"");
+initgraph(&gd,&gm,NULL);
 for(i=0;i<500;i++)
 {
 obj.draw(i);
