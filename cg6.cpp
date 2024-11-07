@@ -1,5 +1,5 @@
-Write C++ program to draw man walking in the rain with an umbrella. Apply the concept of polymorphism
-Code :
+//Write C++ program to draw man walking in the rain with an umbrella. Apply the concept of polymorphism
+//Code :
 
 #include<iostream>
 #include<graphics.h>
