@@ -2,7 +2,6 @@ Write C++ program to draw man walking in the rain with an umbrella. Apply the co
 Code :
 
 #include<iostream>
-#include<conio.h>
 #include<graphics.h>
 #include<stdlib.h>
 #include<dos.h>
