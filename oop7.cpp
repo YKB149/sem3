@@ -7,11 +7,11 @@ int main() {
     long int population;
 
     map<string, long int> m1;
-  /*  m1["Maharashtra"] = 940000;
+    m1["Maharashtra"] = 940000;
     m1["Delhi"]= 87888;
     m1["Gujarat"]= 78777;
     m1["Uttar Pardesh"]=54454;
-    m1["AP"]= 521212;*/
+    m1["AP"]= 521212;
     for(int i=0;i<4;i++)
     {
     cout<<"Enter the state name:";
