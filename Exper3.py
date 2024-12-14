@@ -12,8 +12,7 @@ OUTPUT:
     2. Print the Magic Square Matrix
     
 
-AUTHOR: Dr. Sunil D. Rathod
-DATE: 17.07.2024
+
 '''
 
 #Implementation Class
