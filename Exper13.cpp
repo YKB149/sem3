@@ -13,8 +13,7 @@ OUTPUT:
 	b) Delete End
 	c) Display DQueue
 	
-AUTHOR:  Sunil
-DATE: 14.10.2024
+
 */
 #include<iostream>
 #define MAX 3
