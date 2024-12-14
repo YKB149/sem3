@@ -15,8 +15,6 @@ OUTPUT:
     2. Display sorted list of students using Bubble sort
     3. Display top five scores
 
-AUTHOR: Dr. Sunil D. Rathod
-DATE: 01.08.2024
 '''
 
 #Implementation class
