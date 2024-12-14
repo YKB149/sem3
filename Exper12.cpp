@@ -15,8 +15,7 @@ OUTPUT:
 	b) Delete Item from Priority Queue
 	c) Display Queue
 	
-AUTHOR:  Sunil
-DATE: 13.10.2024
+
 */
 #include<iostream>
 #define MAX 3
