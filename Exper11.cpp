@@ -2,17 +2,6 @@
 AIM:
 Write C++ program for simulating job queue.
 Write functions to add job and delete job from queue.
-
-INPUT: 
-    1. Job information (ID & Name)
-	
-OUTPUT:
-	a) Add Job in Queue
-	b) Delete Job from Queue
-	c) Display Queue
-	
-AUTHOR:  Sunil
-DATE: 13.10.2024
 */
 #include<iostream>
 #define MAX 3
