@@ -15,8 +15,6 @@ OUTPUT:
     2. Display sorted list of students using Shell sort
     3. Display top five scores
 
-AUTHOR: Dipali Junankar
-DATE: 01.08.2024
 '''
 
 #Implementation class
