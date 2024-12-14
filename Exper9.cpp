@@ -11,9 +11,6 @@ INPUT:
 OUTPUT:
 	a) Display out put whether the expression is well parenthesized or not
 	
-
-AUTHOR:  Sunil
-DATE: 27.09.2024
 */
 #include<iostream>
 #include<string.h>
