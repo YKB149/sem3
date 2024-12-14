@@ -1,4 +1,24 @@
+'''
+AIM:
+Write a Python program for department library which has N books, 
+write functions for following:
+a) Display books in ascending order based on cost of books
+b) Delete the duplicate entries
+c) Count number of books with cost more than 500.
+d) Copy books in a new list which has cost less than 500.
+(in Python without using built-in functions)
 
+INPUT: Book Information
+    1. Number of books 'N' in department library
+    2. Name of book, author, cost for 'N' books
+
+OUTPUT:
+    1. Display list Book 
+    2. Display List of Books in ascending order of cost
+    3. Delete the duplicate entries
+    4. Number of books having cost more than 500
+    5. Copy books in a new list which has cost less than 500
+'''
 #ADT of Book
 class Book:
     def __init__(self):
