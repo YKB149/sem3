@@ -153,10 +153,7 @@ class AppointmentSchedular{
 			}	//end for loop i		
 		}//end function
 		
-		//5. Sort list based on time using pointer manipulation
-		void sortListPhysical(){
-			
-		}//end function
+	
 };
 
 //Driver Code
@@ -190,7 +187,7 @@ int main(){
 				cin>>etime;
 				cout<<"\nEnter minimum availability as minutes:";
 				cin>>min;
-				cout<<"\nEnter maximum availability as minutes:";
+				cout<<"\nEnter minimum availability as minutes:";
 				cin>>max;
 				sch.addFreeSlot(hod,stime,etime,min,max);
 				break;
@@ -209,9 +206,6 @@ int main(){
 				sch.sortList();
 				break;
 			case 5:
-				sch.sortListPhysical();
-				break;
-			case 6:
 				cout<<"\nGood By!!";
 				break;
 			
@@ -219,3 +213,5 @@ int main(){
 	}//end while
 	return 0;
 }//end main
+
+
