@@ -173,8 +173,7 @@ int main(){
 		cout<<"\n2. Display free slots ";
 		cout<<"\n3. Book appointment";
 		cout<<"\n4. Sort list based on time";
-		cout<<"\n5. Sort list based on time using pointer manipulation";
-		cout<<"\n6. Exit Application";
+		cout<<"\n5. Exit Application";
 		cout<<"\nWhat is your choice::";
 		cin>>choice;
 		switch(choice){
@@ -213,5 +212,4 @@ int main(){
 	}//end while
 	return 0;
 }//end main
-
 
