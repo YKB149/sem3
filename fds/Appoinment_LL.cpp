@@ -1,6 +1,4 @@
-/*
-AIM:
-Write C++ program for storing appointment schedule for day.
+/*
 Appointments are booked randomly using linked list.
 Set start and end time and min and max duration for visit slot.
 Write functions for:
@@ -9,21 +7,7 @@ b) Book appointment
 c) Cancel appointment (check validity, time bounds, availability etc.) 
 d) Sort list based on time
 e) Sort list based on time using pointer manipulation
-
-INPUT: 
-    1. Name of visitor
-	2. hourOfDay, start and end time 
-	3. min and max duration for visit slot
-
-OUTPUT:
-	a) Display free slots 
-	b) Book appointment
-	c) Cancel appointment (check validity, time bounds, availability etc.) 
-	d) Sort list based on time
-	e) Sort list based on time using pointer manipulation
-
-AUTHOR: Dr. Sunil Rathod
-DATE: 19.09.2024
+
 */
 #include<iostream>
 using namespace std;
