@@ -1,22 +1,10 @@
 '''
-AIM:
-Write a Python program to store first year percentage of students in array.
+
 Write function for sorting array of floating point numbers in ascending order using
 a) Selection Sort
 b) Bubble Sort and 
 c) Display top five scores.
-
-INPUT: Book Information
-    1. Number of students in First Year
-    2. First year percentage of students
-
-OUTPUT:
-    1. Display sorted list of students using Selection sort
-    2. Display sorted list of students using Bubble sort
-    3. Display top five scores
-
-AUTHOR: Dr. Sunil D. Rathod
-DATE: 01.08.2024
+
 '''
 
 #Implementation class
