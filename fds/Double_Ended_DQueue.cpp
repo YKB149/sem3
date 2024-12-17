@@ -1,20 +1,7 @@
 /*
-AIM:
-Write C++ program for double ended DQueue.
+
 Write functions to add  element to DQueue or delete  from DQueue at both the end.
 
-INPUT: 
-    1. Any value as an Element 
-	
-OUTPUT:
-	a) Add Begin
-	b) Delete Begin
-	a) Add End
-	b) Delete End
-	c) Display DQueue
-	
-AUTHOR:  Sunil
-DATE: 14.10.2024
 */
 #include<iostream>
 #define MAX 3
