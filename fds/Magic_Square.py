@@ -1,19 +1,7 @@
-'''
-AIM:
+'''
 Write a Python Program for magic square. A magic square is an n * n matrix of the integers 1 to n
 such that the sum of each row, column, and diagonal is the same
 
-
-INPUT: 
-    'N x N' Square Matrix
-
-OUTPUT:
-    1. To print each row, column, and diagonal sum
-    2. Print the Magic Square Matrix
-    
-
-AUTHOR: Dr. Sunil D. Rathod
-DATE: 17.07.2024
 '''
 
 #Implementation Class
