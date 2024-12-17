@@ -1,22 +1,10 @@
 '''
-AIM:
-Write a Python program to store first year percentage of students in self.iSortListay.
+
 Write function for sorting self.iSortListay of floating point numbers in ascending order using
 a) Insertion sort
 b) Shell Sort and 
 c) Display top five scores.
-
-INPUT: 
-    1. Number of students in First Year
-    2. First year percentage of students
-
-OUTPUT:
-    1. Display sorted list of students using Insertion sort
-    2. Display sorted list of students using Shell sort
-    3. Display top five scores
-
-AUTHOR: Dipali Junankar
-DATE: 01.08.2024
+
 '''
 
 #Implementation class
