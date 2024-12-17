@@ -1,5 +1,5 @@
 '''
-AIM:
+
 1)Write a Python program :
 a) To store name and mobile number of your friend in sorted order.
 b) Search friend name using Binary Search.
@@ -10,17 +10,7 @@ c) Insert new friend in phoneBook List.
 a) To store name and mobile number of your friend in sorted order.
 b) Search friend name using Fibonacci search..
 c) Insert new friend in phoneBook List.
-INPUT: 
-    1. Number of Friends in PhoneBook.
-    2. Name and Mobile of friends.
 
-OUTPUT:
-    1. Display Friends List.
-    2. Search friend name using Binary Search.
-    3. Search friend name using Fibonacci search..
-
-AUTHOR: A
-DATE: 01.08.2024
 '''
 
 
