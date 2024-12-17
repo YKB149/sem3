@@ -1,19 +1,8 @@
-/*
-AIM:
+/*
 In any language program mostly syntax error occurs due to unbalancing delimiter
 such as (),{},[]. 
 Write C++ program using stack to check whether given expression is 
-well parenthesized or not.
-
-INPUT: 
-    1. Infix Expression
-	
-OUTPUT:
-	a) Display out put whether the expression is well parenthesized or not
-	
-
-AUTHOR:  Sunil
-DATE: 27.09.2024
+well parenthesized or not
 */
 #include<iostream>
 #include<string.h>
