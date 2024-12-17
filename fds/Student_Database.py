@@ -1,20 +1,11 @@
-'''
-AIM:
+'''
 Write a Python program 
 1. To store students PRNs with date and month (year) of birth. 
 List_A and List_B be the two list for two SE Computer divisions. 
 2. Lists are sorted on date and month.
 3. Merge these two lists into third list “List_SE_Comp_DOB”
 resulting in sorted information about Date of Birth of SE Computer students
-
-INPUT: 
-    1. Student PRN, Day & Month (year) for SE-A & SE-B
-
-OUTPUT:
-   2. Sorted List of SE_Comp
-
-AUTHOR: Dr. Sunil D. Rathod
-DATE: 23.07.2024
+
 '''
 import datetime
 
