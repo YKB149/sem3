@@ -1,25 +1,11 @@
-/*
-AIM:
-club member‘s information using singly linked list. 
-Store student PRN and Name. 
+/*
 Write functions to: 
 a) Add and delete the members as well as president or even secretary. 
 b) Compute total number of members of club 
 c) Display members
 d) Two linked lists exists for two divisions. 
    Concatenate two lists
-
-INPUT: 
-    1. Student PRN and Name
-
-OUTPUT:
-    1. Display Members list for SE-A and SE-B divisions
-	2. Add Member to SE-A and SE-B divisions
-	3. Delete Member from SE-A and SE-B divisions
-	4. Concatenate two lists
-
-AUTHOR: Dr. Sunil Rathod
-DATE: 03.09.2024
+
 */
 #include<iostream>
 using namespace std;
